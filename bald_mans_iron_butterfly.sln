@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bald_mans_iron_butterfly", "bald_mans_iron_butterfly.csproj", "{6AD051B2-F01D-468C-9768-08DDD86E5010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD051B2-F01D-468C-9768-08DDD86E5010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD051B2-F01D-468C-9768-08DDD86E5010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD051B2-F01D-468C-9768-08DDD86E5010}.Debug|x64.ActiveCfg = Debug|x64
+		{6AD051B2-F01D-468C-9768-08DDD86E5010}.Debug|x64.Build.0 = Debug|x64
+		{6AD051B2-F01D-468C-9768-08DDD86E5010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD051B2-F01D-468C-9768-08DDD86E5010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD051B2-F01D-468C-9768-08DDD86E5010}.Release|x64.ActiveCfg = Release|x64
+		{6AD051B2-F01D-468C-9768-08DDD86E5010}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1623FE4B-3B30-40D8-802F-76553C8211B1}
+	EndGlobalSection
+EndGlobal
